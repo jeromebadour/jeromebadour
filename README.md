@@ -20,7 +20,6 @@ Every release is public at [w3arena.pro/changelog](https://w3arena.pro/changelog
 
 - I find the real cause before I change anything.
 - Every change is tested and proven before it goes live.
-- I build with AI tools (Claude Code) under strict rules, and I check everything they produce.
 - Clear written updates: what's done, how it was tested, what's left.
 
 ## Tech I deliver in
